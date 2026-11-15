@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.InsuranceBazaar" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
